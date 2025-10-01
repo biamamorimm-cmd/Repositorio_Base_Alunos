@@ -1,0 +1,147 @@
+img{
+width:250px;    
+height:150px ;
+margin-right:50%;
+}
+
+nav{
+background-color: rgb(240, 87, 105);    
+color: rgb(214, 248, 163);
+display: flex;
+justify-content: space-between;
+border-color: rgb(206, 237, 175) ;
+}
+
+.sidebar{
+width: 150px;
+height: 800px;
+}
+
+.Search{
+ background-color: rgb(46, 161, 17);
+ color: black;
+ width:  90px;
+ height: 45px;
+ margin: 5px;
+ border-radius: 20px;
+}
+
+.linda{
+display: flex;    
+flex-direction:row;
+gap: 25px;
+justify-content: space-between;
+margin: 0;
+}
+
+body{
+background-color:  rgb(234, 250, 255);
+}
+
+.btn1{
+border-radius: 50px;    
+background-color: rgb(178, 246, 178);
+width: 100px;
+height: 100px;
+}
+
+
+.btn2{
+margin-top: 30px;
+border-radius: 50px;    
+background-color: rgb(178, 246, 178);
+width: 100px;
+height: 100px;
+}
+
+.btn3{
+margin-top: 30px;
+border-radius: 50px;    
+background-color: rgb(178, 246, 178);
+width: 100px;
+height: 100px;
+}
+
+.btn4{
+margin-top: 30px;
+border-radius: 50px;    
+background-color: rgb(178, 246, 178);
+width: 100px;
+height: 100px;
+}
+
+.btn5{
+margin-top: 30px;
+border-radius: 50px;    
+background-color: rgb(178, 246, 178);
+width: 100px;
+height: 100px;
+}
+
+
+.quadradao1{
+height: 200px;
+width: 100px;
+background-color: rgb(162, 255, 202);
+margin-left: 200px;
+display: flex;
+position:relative;
+margin-top: -250px;
+}
+
+.quadradao2{
+height: 200px;
+width: 100px;
+background-color:rgb(162, 255, 202);
+margin-left: 200px;
+display: flex;
+position:relative;
+margin-top: -250px;
+}
+
+.quadradao3{
+height: 200px;
+width: 100px;
+background-color: rgb(162, 255, 202);
+margin-left: 200px;
+display: flex;
+position:relative;
+margin-top: -250px;
+}
+
+.quadradao4{
+height: 200px;
+width: 100px;
+background-color:rgb(162, 255, 202);
+margin-left: 200px;
+display: flex;
+position:relative;
+margin-top: -250px;
+}
+
+.maedoquadrado{
+display:flex ;
+height: 15000000;
+width: 500000000;
+}
+
+.morango {
+height: 300px;
+margin-top: -100px;
+margin: left 20px;
+}
+
+.bolo{
+height:300px;    
+margin-top: -100px;
+}
+
+.vestir{
+height:300px;    
+margin-top: -100px;
+}
+
+.medico{
+height:300px;    
+margin-top: -100px;
+}
